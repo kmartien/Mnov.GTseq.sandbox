@@ -1,0 +1,12 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf data/GTseq.prod.gt.20000.reads.minDP5minQ20meanDP15mac3Polymorphicexcessreads.recode.vcf
+	--recode-INFO-all
+	--max-meanDP 713
+	--out data/GTseq.prod.gt.20000.reads.minDP5minQ20meanDP15mac3Polymorphicexcessreads.excessreads
+	--recode
+
+Error: Can't determine file type of data/GTseq.prod.gt.20000.reads.minDP5minQ20meanDP15mac3Polymorphicexcessreads.recode.vcf

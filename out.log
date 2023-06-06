@@ -1,0 +1,9 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf --out
+	--depth
+
+Error: Can't determine file type of --out
